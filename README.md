@@ -1,6 +1,5 @@
 # facteaser
 A Knime workflow to parse full-text HTML outputs from Factiva.
-By Angus Veitch, March 2019.
 
 This is a Knime workflow that converts HTML outputs saved from Factiva (a subscription-based news database) into a tabular format so that it can be passed to text analysis software.
 
